@@ -1,0 +1,8 @@
+retention_action,customers,actual_churners,avg_churn_probability,monthly_revenue,actual_churn_rate
+Priority: support + security + contract retention,140,103,0.6904391,11091.25,0.7357142857142858
+Priority: contract retention offer,4,3,0.658111,380.55,0.75
+Contract upgrade + value review,236,112,0.47240815,20915.8,0.4745762711864407
+Proactive support outreach,86,42,0.4684696,4032.55,0.4883720930232558
+Security engagement,13,8,0.4073425,697.35,0.6153846153846154
+Engagement campaign,1,1,0.35091314,53.95,1.0
+Standard engagement,929,105,0.12783206,53129.75,0.11302475780409042

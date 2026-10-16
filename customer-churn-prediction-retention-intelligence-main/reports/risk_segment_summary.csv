@@ -1,0 +1,4 @@
+risk_segment,customers,actual_churners,avg_churn_probability,actual_churn_rate
+Low Risk,929,105,0.12783206,0.11302475780409042
+Medium Risk,336,163,0.46852103,0.4851190476190476
+High Risk,144,106,0.6895411,0.7361111111111112
